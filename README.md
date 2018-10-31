@@ -1,4 +1,4 @@
-
+﻿
 
 # dota2-Legue API 接口文档
 ## 技术栈：
@@ -15,7 +15,7 @@ duration     |      |游戏时间（秒）|
 first_blood_time    |      |一血时间|
  tower_status_dire    |      |夜魇塔数|
  tower_status_radiant    |      |天辉塔数|
-
+radiant_win    |      |天辉是否赢得比赛|
 ### KEY—选手（player）：
 |参数|类型|说明|
 |:-----|:-------:|:-----|
